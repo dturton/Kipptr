@@ -1,7 +1,6 @@
 ## Kipptr
 
-Kipptr is a library written in PHP for consuming the API of kippt.com.
-
+Kipptr is a PHP library that makes working with the API of kippt.com a breeze.
 
 ## What can I do with Kipptr ?
 * Create, read, update and delete your clips and lists
